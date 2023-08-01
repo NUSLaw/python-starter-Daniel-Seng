@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/NlfIm_9w)
 # Try Out Python with VSC on GitHub Codespace
 
 This is a GitHub repository from which you can create a codespace in Visual Studio Code. It is provided by NUSLaw for the course Law and Technology. through Github. You may use this codespace as a development environment for the rest of the course for non-assignment related work. When you create a codespace, a virtual machine (VM) and storage are uniquely assigned to you. We have already configured this to use Python 3.11 so that you can get started quickly. 
